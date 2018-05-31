@@ -1,0 +1,75 @@
+body {
+  /* background-color: blue; */
+  padding-top: 2vh;
+  margin: auto;
+}
+/* .container {
+  height: ;
+  width: 100vw;
+} */
+
+.boxmain {
+  border: 1px solid black;
+  height: 20vh;
+  width: 80vw;
+  margin: 3vh auto 3vh auto;
+}
+#topbox {
+  border: 3px solid black;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 5px;
+  /* display: inline-block; */
+}
+.purple {
+  background-color: #800080;
+  height: 14vh;
+  width: 3vw;
+  display: inline-block;
+  margin-left: 5px;
+  /* margin-right: 40px; */
+}
+.green {
+  background-color: green;
+  height: 100%;
+  width: 30vw;
+  display: inline-block;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.blue {
+  background-color: lightblue;
+  height: 20vh;
+  width: 15vw;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+#middlebox {
+  border: 4px dotted black;
+  /* padding-top: 4px; */
+}
+.yellow {
+  background-color: #ffffcc;
+  height: 70%;
+  width: 90%;
+  margin: 15px auto 0 auto;
+  box-shadow: 5px 5px #595959;
+}
+#bottombox {
+  width: 50vw;
+  height: 30vh;
+  border: 1px solid #d9d9d9;
+  box-shadow: 5px 5px #cccccc;
+}
+.textcontainer {
+  margin-left: 21.5vw;
+  margin-top: 10vh;
+}
+.words {
+  color: #000080;
+  letter-spacing: 5px;
+  font-size: 20px;
+}
+#hello {
+}
